@@ -1,0 +1,5 @@
+def dbos161
+  target remote unix:.sockets/gdb
+end
+dbos161
+
